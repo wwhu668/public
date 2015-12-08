@@ -8,18 +8,19 @@
 # 公共库分类
 
 1.代码
-  1.Nginx
-  2.PHP
-  3.Wordpress
-  4.PHPCMS
-  5.Bash
-  6.Laravel
-  7.Bootstrap
-  8.Git
+*  Nginx
+*  PHP
+*  Wordpress
+*  PHPCMS
+*  Bash
+*  Laravel
+*  Bootstrap
+*  Git
+  
 2.设计
-  1.设计标准
-  2.设计理念
-  3.项目管理
+*  设计标准
+*  设计理念
+*  项目管理
 软件工具
 
 # 公共库维护
